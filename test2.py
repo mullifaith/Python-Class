@@ -1,0 +1,2 @@
+name = "Faith"
+print(name)
